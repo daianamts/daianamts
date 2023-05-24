@@ -23,9 +23,4 @@
 
 </div>
  
- ![Snake animation](https://github.com/daianamts/daianamts/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
 
